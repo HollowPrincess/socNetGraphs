@@ -1,0 +1,6 @@
+*pycache*
+data/*
+graphs/*
+credentials.py
+env/*
+*checkpoint*
